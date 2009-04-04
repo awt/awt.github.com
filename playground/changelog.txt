@@ -1,0 +1,3 @@
+4/4/09
+* URL bar now takes the full url including host and path
+* URL bar now refreshes page on Return
