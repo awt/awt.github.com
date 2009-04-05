@@ -1,4 +1,5 @@
 4/4/09
+* fixed issue causing missed changes due to inappropriate time tracking
 * probably fixed bug caused when path modification date matched file modification date exactly 
 * added cache deletion but not sure it is working.
 * URL bar now takes the full url including host and path
