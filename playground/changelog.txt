@@ -1,3 +1,5 @@
 4/4/09
+* probably fixed bug caused when path modification date matched file modification date exactly 
+* added cache deletion but not sure it is working.
 * URL bar now takes the full url including host and path
 * URL bar now refreshes page on Return
