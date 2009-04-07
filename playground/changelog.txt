@@ -1,3 +1,5 @@
+4/7/09
+* added pg script for starting Playground from the command line in a project directory
 4/4/09
 * fixed issue causing missed changes due to inappropriate time tracking
 * probably fixed bug caused when path modification date matched file modification date exactly 
