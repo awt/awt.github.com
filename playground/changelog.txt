@@ -1,3 +1,6 @@
+4/28/09
+* Implemented workaround for javascript caching issues.
+* Doesn't reload page when cursor leaves location bar.
 4/8/09
 * Use a different mechanism to prevent caching.
 4/7/09
