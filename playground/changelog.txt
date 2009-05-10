@@ -1,3 +1,5 @@
+5/9/09
+* Automatic updates via Sparkle.
 4/28/09
 * Implemented workaround for javascript caching issues.
 * Doesn't reload page when cursor leaves location bar.
