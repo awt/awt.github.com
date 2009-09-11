@@ -1,3 +1,5 @@
+9/10/09
+* Added support request form under Help menu
 9/8/09
 * URL History dropdown
 * Back/Forward Buttons
