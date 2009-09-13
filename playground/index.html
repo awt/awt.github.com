@@ -1,13 +1,21 @@
 <html>
   <head>
-  <title>Playground</title>
-  <style type="text/css">
-    body {
-      font-family:verdana; 
-      margin:40px;
+    <title>Playground</title>
+    <style type="text/css">
+      body {
+        font-family:verdana; 
+        margin:40px;
 
-    }
-  </style>
+      }
+    </style>
+    <script type="text/javascript">
+      var mp_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+      document.write(unescape("%3Cscript src='" + mp_protocol + "api.mixpanel.com/site_media/js/api/mpmetrics.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+      try { mpmetrics.init("0995fd15cdb55d0a749999dd98d8f967");} catch(err) {}
+    </script>
   </head>
   <body>
     <div style="margin:auto;">
@@ -35,6 +43,11 @@
         <img src='../images/merrygoround.png'>
       </div>
     </div>
+
+                                // Then make calls to our API as shown below:
+    <script>
+      mpmetrics.track('visit-home-page', {});
+    </script>
     <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
