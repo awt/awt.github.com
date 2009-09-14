@@ -41,7 +41,7 @@ div#top-nav {
   line-height: 30px;
 }
 
-div#top-nav a:visited {
+div#top-nav a:visited, a:link {
  color:white; 
 }
 
