@@ -35,4 +35,9 @@ div#top-nav {
   background:gray;
   margin-left: -20px;
   margin-right: -20px;
+  padding: 20px;
+}
+
+div#top-nav a:visited {
+ color:white; 
 }
