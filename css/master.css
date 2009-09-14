@@ -36,6 +36,8 @@ div#top-nav {
   margin-left: -20px;
   margin-right: -20px;
   padding: 0 20px;
+  height: 20px;
+  line-height: 20px;
 }
 
 div#top-nav a:visited {
