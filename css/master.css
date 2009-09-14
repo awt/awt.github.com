@@ -44,3 +44,7 @@ div#top-nav {
 div#top-nav a:visited {
  color:white; 
 }
+
+p.product-summar {
+  margin-left 1em;
+}
