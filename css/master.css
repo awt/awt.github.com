@@ -1,4 +1,4 @@
-* {
+body, html {
 	margin:0;
 	padding:0
 }
@@ -24,10 +24,6 @@ div#content {
   min-height: 100%;
   background: white;
 }
-
-/*div#content img.project-logo {*/
-  /*width: 600px;*/
-/*}*/
 
 div.product-header {
   text-align:center;
