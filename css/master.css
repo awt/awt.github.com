@@ -32,5 +32,7 @@ div.product-header {
 
 div#top-nav {
   color:white;
-  background:black;
+  background:gray;
+  margin-left: -20px;
+  margin-right: -20px;
 }
