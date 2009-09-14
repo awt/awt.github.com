@@ -27,3 +27,7 @@ div#content {
 div#content img.project-logo {
   width: 600px;
 }
+
+div.project-header {
+  text-align:center;
+}
