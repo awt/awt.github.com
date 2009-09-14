@@ -10,6 +10,7 @@ body, html {
 body {
   background: gray;
   font-family:verdana; 
+  color: gray;
 }
 
 div#banner {
