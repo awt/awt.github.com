@@ -8,7 +8,7 @@ body, html {
 }
 
 body {
-  background: lightblue;
+  background: gray;
   font-family:verdana; 
 }
 
@@ -36,8 +36,8 @@ div#top-nav {
   margin-left: -20px;
   margin-right: -20px;
   padding: 0 20px;
-  height: 20px;
-  line-height: 20px;
+  height: 30px;
+  line-height: 30px;
 }
 
 div#top-nav a:visited {
