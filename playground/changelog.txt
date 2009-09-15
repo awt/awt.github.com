@@ -1,3 +1,5 @@
+9/14/09
+* Added link to OwyheeSoftware.com in help menu
 9/12/09
 * Added Help menu item and documentation
 9/10/09
