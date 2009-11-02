@@ -18,6 +18,7 @@ div#banner {
 }
 
 div#content {
+  position:relative;
   margin: 0 auto;
   padding: 20px;
   width: 600px;
@@ -48,3 +49,38 @@ div#top-nav a:visited, div#top-nav a:link {
 p.product-summar {
   margin-left 1em;
 }
+
+.pg_button {
+  background: url(/images/pg_button.png) center;
+  display:block;
+  float:left;
+  width: 150px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  text-decoration:none;
+  color: white;
+}
+
+.bottom_buttons {
+  width: 300px; 
+  margin: 0 auto;
+}
+
+a.pg_button:hover {
+  text-decoration:underline;  
+}
+
+.screenshot {
+  top:316px;
+  right:50px;
+  position:absolute;
+  text-align:center;
+}
+
+.catch_phrase {
+  margin-bottom: 140px;
+}
+
+
+

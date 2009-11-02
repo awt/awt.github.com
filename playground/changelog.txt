@@ -1,3 +1,9 @@
+11/1/09
+* Open Multiple projects at the same time (paid version only)
+* Show popups
+* Show javascript dialogs
+* More default file types watched
+
 9/14/09
 * Added link to OwyheeSoftware.com in help menu
 9/12/09
