@@ -11,6 +11,7 @@ body {
   background: gray;
   font-family:verdana; 
   color: gray;
+  font-size: 12px;
 }
 
 div#banner {
@@ -72,14 +73,9 @@ a.pg_button:hover {
 }
 
 .screenshot {
-  top:316px;
-  right:50px;
-  position:absolute;
-  text-align:center;
 }
 
 .catch_phrase {
-  margin-bottom: 140px;
 }
 
 
