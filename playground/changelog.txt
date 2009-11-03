@@ -1,3 +1,6 @@
+11/3/09
+* Fix for crash on Leopard (10.5)
+
 11/1/09
 * Open Multiple projects at the same time (paid version only)
 * Show popups
