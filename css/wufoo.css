@@ -46,7 +46,7 @@ CSS rules into "custom.css".
 .wufoo .section p{font-size:85%;font-family:inherit;color:#444444}
 .wufoo label.desc{font-size:95%;font-family:inherit;color:#444444}
 .wufoo li div, .wufoo li div label, .wufoo li span label{font-family:inherit;color:#444444}
-.wufoo input.text, .wufoo textarea.textarea, .wufoo select.select, .wufoo label.choice{font-size:100%;font-family:inherit;color:#333333}
+.wufoo input.text, .wufoo textarea.textarea, .wufoo select.select, .wufoo label.choice{font-size:100%;font-family:inherit;color:#333333;width:260px}
 .wufoo label.choice{color:#444444}
 .wufoo .instruct{font-size:80%;font-family:inherit;color:#444444
 }
