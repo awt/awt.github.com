@@ -82,8 +82,10 @@ div.single-column {
 
 div.signup-container {
   margin-top:20px;
-  background:url(/images/SoftNotifierLayout_signup_box.png);
-  width:285px;
+  background:url(/images/SoftNotifierLayout_signup_box.png) no-repeat;
+  width:250px;
+  padding:20px;
+  color: black;
   height:150px;
 }
 
