@@ -27,7 +27,6 @@ CSS rules into "custom.css".
 #container {
   background:#FFFFFF;
   width: 200px;
-  margin: 50px auto 0 auto;
 }
 .wufoo input.text, .wufoo textarea.textarea{background:#FFFFFF url(/images/fieldbg.gif) repeat-x top}
 /*.wufoo .focused{background:#FFF7C0}*/
