@@ -24,7 +24,11 @@ CSS rules into "custom.css".
 /* Backgrounds */
 /*body{background-image:none;background-color:#99cc00}*/
 /*h1{background-image:none;background-color:#669900}*/
-#container{background:#FFFFFF}
+#container {
+  background:#FFFFFF;
+  width: 200px;
+  margin: 50px auto 0 auto;
+}
 .wufoo input.text, .wufoo textarea.textarea{background:#FFFFFF url(/images/fieldbg.gif) repeat-x top}
 /*.wufoo .focused{background:#FFF7C0}*/
 .wufoo .instruct{background-color:#F5F5F5}
