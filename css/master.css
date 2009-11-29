@@ -8,43 +8,100 @@ body, html {
 }
 
 body {
-  background: gray;
+  background: url(/images/SoftNotifierLayout_vertical_background_gradient.png);
   font-family:verdana; 
-  color: gray;
   font-size: 12px;
 }
 
 div#banner {
-  text-align: center;
+  text-align: left;
+  color: white;
+  font-size: 20px;
+  font-family:Georgia;
+  height:45px;
+  line-height:45px;
+}
+
+div#footer {
+  font-family:Georgia;
+  position:relative;
+  background: black;
+  height: 28px;
+  line-height:28px;
+  text-align: left;
+  color: white;
+  padding: 0 20px;
+}
+
+div.push {
+  height:28px;
+}
+
+div#copyright {
+  float:right;
+  width:310px;
+}
+
+div#footer a, div#banner a {
+  color:white;
+  margin-right: 10px;
+}
+
+div#banner a {
+   text-decoration:none;
 }
 
 div#content {
   position:relative;
-  margin: 0 auto;
-  padding: 20px;
-  width: 600px;
+  margin: 0 auto -28px auto;
+  padding: 0 20px;
   height: auto%;
   min-height: 100%;
-  background: white;
+  color:#666666;
+}
+
+div.playground-container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+div.playground-links {
+  text-align:center;
+}
+
+div.playground-links a {
+  color:#666666;
+}
+
+div.single-column {
+  font-family:Georgia;
+  font-size: 12px;
+  margin: 100px auto 0 auto;
+  width: 274px;
+}
+
+div.signup-container {
+  margin-top:20px;
+  background:url(/images/SoftNotifierLayout_signup_box.png);
+  width:285px;
+  height:150px;
+}
+
+div.soft-notifier-title {
+  font-family:Arial;
+  text-align:center;
+  font-size: 50px;
+  color: black;
+}
+
+div.single-column h1 {
+  font-size:15px;
+  font-weight:normal;
 }
 
 div.product-header {
   text-align:center;
   margin: 20px;
-}
-
-div#top-nav {
-  color:white;
-  background:gray;
-  margin-left: -20px;
-  margin-right: -20px;
-  padding: 0 20px;
-  height: 30px;
-  line-height: 30px;
-}
-
-div#top-nav a:visited, div#top-nav a:link {
- color:white; 
 }
 
 p.product-summar {
