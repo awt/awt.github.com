@@ -74,7 +74,7 @@ div.playground-links a {
 }
 
 div.single-column {
-  font-family:Georgia;
+  font-family:Arial;
   font-size: 12px;
   margin: 100px auto 0 auto;
   width: 274px;
@@ -90,7 +90,7 @@ div.signup-container {
 }
 
 div.soft-notifier-title {
-  font-family:Arial;
+  font-family:Georgia;
   text-align:center;
   font-size: 50px;
   color: black;
