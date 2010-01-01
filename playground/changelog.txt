@@ -1,4 +1,7 @@
 11/3/09
+* ATTENTION - this release disables some features for non-registered users.  DO NOT UPGRADE if you are happy with the product as is.
+
+11/3/09
 * Fix for crash on Leopard (10.5)
 
 11/1/09
